@@ -1,6 +1,6 @@
 **Hi there** 👋
 
-My name is Pedro, i live in Portugal and i'm starting my jurney in IT.
+My name is Pedro, i live in Portugal and i'm starting my journey in IT.
 
 - 👀 I’m currently working in my home lab
     - proxmox
