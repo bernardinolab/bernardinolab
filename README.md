@@ -2,7 +2,7 @@
 
 My name is Pedro, i live in Portugal and i'm starting my IT journey.
 
-I’m a civil engineer working in a career change, turning my Hobby Into a Full-Time.
+I’m a civil engineer working in a career change, turning my Hobby Into a Full-Time Job.
 
 I’m currently learning Java to become an Oracle Certified Associate (OCA) Java SE 8 Programmer.
 
