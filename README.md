@@ -3,12 +3,13 @@
 My name is Pedro, i live in Portugal and i'm starting my IT journey.
 
 - 👀 I’m currently working in my home lab
-    * proxmox
+    * Proxmox
         - virtualized OPNsense
-        - virtualized docker server
+        - virtualized Docker server
         - virtualized ha k3s cluster
+    * Truenas (TerraMaster F2-423)
 
-- 🌱 I’m currently learning Java to become an Oracle Certified Associate (OCA) Java SE 8 Programmer.
+- 📚🎧☕ I’m currently learning Java to become an Oracle Certified Associate (OCA) Java SE 8 Programmer.
 
 <!---
 bernardinolab/bernardinolab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
