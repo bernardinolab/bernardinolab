@@ -6,7 +6,7 @@ I’m a civil engineer working in a career change, turning my Hobby Into a Full-
 
 I’m currently learning Java to become an Oracle Certified Associate (OCA) Java SE 8 Programmer.
 
-- I’m learning/working in my homelab
+I’m learning/working in my homelab
     * Proxmox
         - virtualized OPNsense
         - virtualized Docker server
